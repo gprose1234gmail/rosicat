@@ -7,13 +7,13 @@
     "modular",
     "productivity"
   ],
-  "repository": "https://github.com/Jisan09/catuserbot/",
+  "repository": "https://github.com/PravincyGp/catpack",
   "website": "#TODO",
   "success_url": "#TODO",
   "env": {
     "ALIVE_NAME": {
-      "description": "give your name",
-      "value": ""
+      "description": "Give your name",
+      "value": "⛓️✨𝐑⭕𝐒𝐈🐱𝐂🇦𝐓🐾✨⛓️"
     },
     "APP_ID": {
       "description": "Get this value from my.telegram.org! Please do not steal",
