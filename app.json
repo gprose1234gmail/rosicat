@@ -1,7 +1,7 @@
 {
   "name": "RosiCat userbot",
-  "description": "A simple Telegram userbot based on Telethon . Maintained by Pravincy Gp ",
-  "logo": "https://telegra.ph/file/ac35562694dfccc926253.jpg",
+  "description": "A simple Telegram userbot based on Telethon . Maintained by Pravincy ",
+  "logo": "https://telegra.ph/file/0e18ac46903131d7b1f48.jpg",
   "keywords": [
     "plugin",
     "modular",
@@ -12,7 +12,7 @@
   "success_url": "#TODO",
   "env": {
     "ALIVE_NAME": {
-      "description": "Give your name",
+      "description": "give your name",
       "value": "⛓️✨𝐑⭕𝐒𝐈🐱𝐂🇦𝐓🐾✨⛓️"
     },
     "APP_ID": {
