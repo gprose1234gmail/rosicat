@@ -13,6 +13,9 @@ Main source is here [main source](https://github.com/PravincyGp/catpack) fork an
    - [@nanapdithan](https://t.me/nanapdithan)
    - [@thala_vera_maari](https://t.me/thala_vera_maari)
    - [@alpha_romeo_06](https://t.me/alpha_romeo_06)
+   - [@jackjack63 ](https://t.me/jackjack63 )
+   - [@Sathish_cat](https://t.me/Sathish_cat)
+
 ## Rosicat info🐱
    -  [@RosiCat](https://t.me/RosiCat)
 ## GP Channel🐱
